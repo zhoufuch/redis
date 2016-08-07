@@ -210,7 +210,7 @@ latex_preamble = """
 
 # If false, no module index is generated.
 #latex_domain_indices = True
-
+print("aaaa")
 
 # -- Options for manual page output --------------------------------------------
 
